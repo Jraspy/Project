@@ -6,4 +6,4 @@ for item in lst:
     if (count % 2) != 0:
         lst[count-1], lst[count] = lst[count], lst[count-1]
     count += 1
-print(lst)
+print(f"result: {lst}")
