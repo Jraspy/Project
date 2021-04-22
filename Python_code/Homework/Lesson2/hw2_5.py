@@ -1,5 +1,5 @@
 rate_list = [7, 5, 3, 3, 2]
-print(f"Rate list: {rate_list}")
+print(f"Default rate list: {rate_list}")
 usr_rate = int(input("Enter new rate: "))
 position = 0
 if usr_rate in rate_list:

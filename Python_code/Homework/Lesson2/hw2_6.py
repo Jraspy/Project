@@ -1,4 +1,4 @@
-usr_count = int(input("Enter count of product positions: "))
+usr_count = int(input("Введите кол-во товаров: "))
 product_Name = "название"
 product_Price = "цена"
 product_Count = "количество"
